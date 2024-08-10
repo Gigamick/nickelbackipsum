@@ -1,0 +1,27 @@
+body {
+    min-height: 100%;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='2000' preserveAspectRatio='none' viewBox='0 0 1440 2000'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1130%26quot%3b)' fill='none'%3e%3cpath d='M 186%2c-1268.1606972689192 C 404.2%2c-1068.16 1220.6%2c-668.16 1277%2c-268.1606972689193 C 1333.4%2c131.84 513%2c331.84 468%2c731.8393027310807 C 423%2c1131.84 1006%2c1478.21 1052%2c1731.8393027310808 C 1098%2c1985.47 768.8%2c1946.37 698%2c2000' stroke='rgba(77%2c 77%2c 77%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M 944%2c-135.92102217573097 C 861.8%2c64.08 442.6%2c464.08 533%2c864.078977824269 C 623.4%2c1264.08 1437%2c1464.08 1396%2c1864.078977824269 C 1355%2c2264.08 435.4%2c2836.89 328%2c2864.078977824269 C 220.6%2c2891.26 752.8%2c2172.82 859%2c2000' stroke='rgba(77%2c 77%2c 77%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M 1190%2c-1838.5789447371585 C 1020.4%2c-1638.58 330.4%2c-1238.58 342%2c-838.5789447371584 C 353.6%2c-438.58 1271.8%2c-238.58 1248%2c161.4210552628416 C 1224.2%2c561.42 272.2%2c793.71 223%2c1161.4210552628415 C 173.8%2c1529.14 846.2%2c1832.28 1002%2c2000' stroke='rgba(77%2c 77%2c 77%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M 1031%2c-130.1640915950893 C 960.6%2c69.84 598.8%2c469.84 679%2c869.8359084049107 C 759.2%2c1269.84 1480.4%2c1469.84 1432%2c1869.8359084049107 C 1383.6%2c2269.84 439.4%2c2843.8 437%2c2869.8359084049107 C 434.6%2c2895.87 1223.4%2c2173.97 1420%2c2000' stroke='rgba(77%2c 77%2c 77%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M 554%2c-1422.7903293813406 C 689%2c-1222.79 1201.8%2c-822.79 1229%2c-422.79032938134054 C 1256.2%2c-22.79 697.6%2c177.21 690%2c577.2096706186594 C 682.4%2c977.21 1227%2c1292.65 1191%2c1577.2096706186594 C 1155%2c1861.77 646.2%2c1915.44 510%2c2000' stroke='rgba(77%2c 77%2c 77%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1130'%3e%3crect width='1440' height='2000' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.input-modern {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.input-modern:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+.tagline {
+    font-size: 1.5em;
+    font-weight: 200;
+    margin-bottom: 40px;
+}
