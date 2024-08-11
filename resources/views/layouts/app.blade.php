@@ -34,7 +34,32 @@
 
 <!-- Page Content -->
 @yield('content')
+<style>
+    a {
+        color: #1a1a1a;
+        text-decoration: none;
+    }
 
+    a:hover {
+        color: #000;
+        text-decoration: underline;
+    }
+</style>
+<section class="footer border-top py-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-4 d-flex flex-column">
+                <a href="https://songbox.com?ref=nickelIpsum">Powered by Songbox</a>
+                <a href="/about">About Nickelback Ipsum</a>
+                <a href="mailto:michael@songbox.com">Contact</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+</section>">
+
+</div>
 
 </body>
 </html>

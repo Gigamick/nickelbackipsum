@@ -9,3 +9,4 @@ Route::get('/', function () {
 
 // a post to /get-ipsum
 Route::post('/get-ipsum', [IpsumController::class, 'getIpsum']);
+Route::view('/about', 'about');
