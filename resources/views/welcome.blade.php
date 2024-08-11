@@ -13,24 +13,27 @@
             <div class="col-12 col-md-6 offset-md-3 d-flex align-items-center justify-content-center justify-content-center">
                 <form id="ipsumForm" method="post" action="#">
                     @csrf
-                    <div class="d-flex flex-row align-items-center">
+                    <div class="d-md-flex flex-row align-items-center text-center text-md-start">
                         <div class="input-group">
                             <span style="border-radius: 0px;" class="input-group-text" id="basic-addon1">Give me</span>
-                            <input style="border-radius: 0px;" name="count"  type="number" class="form-control" placeholder="Eg. 3" aria-label="Count" aria-describedby="basic-addon1">
+                            <input style="border-radius: 0px;" name="count" type="number" class="form-control" placeholder="Eg. 3" aria-label="Count" aria-describedby="basic-addon1">
                         </div>
-                        <div class="form-check d-flex align-items-center ms-3">
-                            <input  class="form-check-input" type="radio" name="structure" value="sentence" id="flexRadioDefault1">
-                            <label class="form-check-label ms-2" for="flexRadioDefault1">
-                                Sentences
-                            </label>
-                        </div>
-                        <div class="form-check d-flex align-items-center ms-3">
-                            <input  class="form-check-input" type="radio" name="structure" value="paragraph" id="flexRadioDefault2">
-                            <label class="form-check-label ms-2" for="flexRadioDefault2">
-                                Paragraphs
-                            </label>
+                        <div class="d-flex justify-content-center mt-2 mt-md-0">
+                            <div class="form-check d-flex align-items-center justify-content-center justify-content-md-start ms-md-3">
+                                <input class="form-check-input" type="radio" name="structure" value="sentence" id="flexRadioDefault1">
+                                <label class="form-check-label ms-2" for="flexRadioDefault1">
+                                    Sentences
+                                </label>
+                            </div>
+                            <div class="form-check d-flex align-items-center justify-content-center justify-content-md-start ms-3 ms-md-3">
+                                <input class="form-check-input" type="radio" name="structure" value="paragraph" id="flexRadioDefault2">
+                                <label class="form-check-label ms-2" for="flexRadioDefault2">
+                                    Paragraphs
+                                </label>
+                            </div>
                         </div>
                     </div>
+
                     <style>
                         .submit {
                             width: 100%;
