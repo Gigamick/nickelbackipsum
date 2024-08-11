@@ -24,6 +24,9 @@
             integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
             crossorigin="anonymous"></script>
     <link href="{{secure_asset('css/main.css?r='.rand(0000,9999))}}" rel="stylesheet">
+
+    <script defer data-domain="nickelback-ipsum.com" src="https://plausible.io/js/script.js"></script>
+
 </head>
 
 <body class="font-sans antialiased">
