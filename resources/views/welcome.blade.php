@@ -113,7 +113,7 @@
 
             </div>
         </div>
-        <div class="row">
+        <div class="row mb-5">
             <div class="col-12 col-md-6 offset-md-3 d-flex flex-column justify-content-center">
                 <button id="copyButton" style="display:none; border: none; background: transparent;" onclick="copyToClipboard()">Copy Text</button>
                 <div id="ipsumOutput" class="border p-4 bg-white" style="margin-top: 20px; display: none;"></div>
