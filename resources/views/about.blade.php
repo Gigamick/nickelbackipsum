@@ -11,7 +11,7 @@
                     <div class="col-12 col-md-6 offset-md-3">
                         <h4 class="text-bold mt-4" style="font-weight: 900;">Shout out to Nickelback</h4>
                         <p>Best rock band ever? Maybe. This site is a bit of fun and hopefully will add a bit of value
-                            out there to anyone who needs "lorem ipsum" text that's a little bit different and rock flavoured.</p>
+                            out there to anyone who needs "lorem ipsum" text that's a little bit different, and a little bit rock flavoured.</p>
                         <p>That being said, if anyone from Nickelback wants this taken down for any reason, just shoot
                             me an email <a style="text-decoration: underline"
                                            href="mailto:michael@songbox.com">here.</a></p>
