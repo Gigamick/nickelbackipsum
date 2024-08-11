@@ -58,7 +58,7 @@
                         }
                     </style>
                     <div class="input-group mb-3">
-                        <button type="submit" class="submit text-dark">Go</button>
+                        <button type="submit" class="submit text-darkplausible-event-name=Ipsum+Created">Go</button>
                     </div>
                 </form>
 
