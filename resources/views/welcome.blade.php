@@ -123,7 +123,7 @@
                     document.getElementById('share-to-twitter').addEventListener('click', function() {
                         // Customize the text and URL to be shared
                         var text = "Nickelback Ipsum! - This is how you remind me what my design looks like with copy. #nickelback #ipsum #loremipsum #webdev #webdesign #webdevelopment  #webdesigner #webdesigners #webdevelopers #webdevs #webdevelopment https://nickelback-ipsum.com";
-                        var url = "https://nickelback-ipsum.com?ref=twitter"; // Replace with your actual URL
+                        var url = "https://nickelback-ipsum.com"; // Replace with your actual URL
 
                         // Construct the Twitter share URL
                         var twitterUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url);
