@@ -3,6 +3,7 @@
 @section('content')
     <div class="container min-vh-100">
         @include('hero')
+
         <div class="row">
             <div class="col-12 col-md-6 offset-md-3 d-flex align-items-center justify-content-center justify-content-center">
                 <form id="ipsumForm" method="post" action="#">
@@ -44,7 +45,7 @@
                         }
                     </style>
                     <div class="input-group mb-3">
-                        <button type="submit" class="submit text-darkplausible-event-name=Ipsum+Created">Go</button>
+                        <button type="submit" class="submit text-dark plausible-event-name=Ipsum+Created">Go</button>
                     </div>
                 </form>
 
