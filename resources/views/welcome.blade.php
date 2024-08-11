@@ -3,10 +3,10 @@
 @section('content')
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6 offset-md-3 d-flex justify-content-end">
+            <div class="col-12 col-md-6 offset-md-3 d-flex justify-content-end align-items-center">
                 <!-- Share to Twitter Button -->
                 <button id="share-to-twitter" style="border:none; background: transparent" class="twitter-share-button">
-                    <span style="font-size: 26px;">𝕩</span>
+                    <span style="font-size: 30px;" class="">𝕩</span>
                 </button>
             </div>
         </div>
