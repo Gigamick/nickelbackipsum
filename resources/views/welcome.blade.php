@@ -6,7 +6,7 @@
 
         <div class="row">
             <div class="col-12 col-md-6 offset-md-3 d-flex align-items-center justify-content-center justify-content-center">
-                <form id="ipsumForm" method="post" action="#">
+                <form id="ipsumForm" method="post" action="#" class="plausible-event-name=Ipsum+Created">
                     @csrf
                     <div class="d-md-flex flex-row align-items-center text-center text-md-start">
                         <div class="input-group">
