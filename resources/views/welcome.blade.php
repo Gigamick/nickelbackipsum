@@ -45,7 +45,7 @@
                         }
                     </style>
                     <div class="input-group mb-3">
-                        <button type="submit" class="submit text-dark" onclick="plausible('IpsumCreated')">Go</button>
+                        <button type="submit" class="submit text-dark" onclick="plausible('IpsumCreated')">Generate Text</button>
                     </div>
                 </form>
 
