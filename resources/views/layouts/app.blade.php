@@ -60,7 +60,7 @@
     </div>
 </section>
 
-</section>">
+</section>
 
 </div>
 
