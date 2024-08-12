@@ -25,7 +25,7 @@
             crossorigin="anonymous"></script>
     <link href="{{secure_asset('css/main.css?r='.rand(0000,9999))}}" rel="stylesheet">
 
-    <script defer data-domain="nickelback-ipsum.com" src="https://plausible.io/js/script.tagged-events.js"></script>
+    <script defer data-domain="nickelback-ipsum.com" src="https://plausible.io/js/script.js"></script>
     <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 
 
